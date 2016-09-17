@@ -1,0 +1,1 @@
+Not : GangPlank için Kappa AIO yükleyeceksiniz çevirisi yine mevcuttur.

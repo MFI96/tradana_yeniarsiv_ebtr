@@ -1,0 +1,2 @@
+C:\Users\MFI\Desktop\çeviri\ScaryKalista\ScaryKalista\bin\Release\ScaryKalista.exe.config
+C:\Users\MFI\Documents\GitHub\Elobuddy-TRAdana-Translator\Kalista\ScaryKalista\ScaryKalista\bin\Release\ScaryKalista.exe.config

@@ -1,0 +1,15 @@
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\RoninFiddle.exe.config
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\RoninFiddle.exe
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\RoninFiddle.pdb
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\EloBuddy.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\EloBuddy.Sandbox.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\EloBuddy.SDK.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\Mario`s Lib.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\Newtonsoft.Json.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\SharpDX.Direct3D9.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\SharpDX.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\SharpDX.XInput.dll
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\bin\Debug\Mario`s Lib.pdb
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\obj\Debug\Ronin Fiddle.csprojResolveAssemblyReference.cache
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\obj\Debug\RoninFiddle.exe
+D:\Tommi\Documents\My\Deve\Ronin Fiddle\Ronin Fiddle\obj\Debug\RoninFiddle.pdb

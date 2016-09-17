@@ -1,0 +1,1 @@
+Herkese iyi günler Singed Sitemizde sadece alchemist singed addonu vardır ama buda yapımcı kaynaklı sorun nedeniyle kapalıdır bu sebepten dolayı addon kaldırılmıştır. Herhangi sorunsuz singed addonu çıktığında eklenecektir.

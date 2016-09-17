@@ -1,0 +1,26 @@
+C:\Users\Mertss\Desktop\Graves\bin\Debug\PerfectGraves.exe.config
+C:\Users\Mertss\Desktop\Graves\bin\Debug\PerfectGraves.exe
+C:\Users\Mertss\Desktop\Graves\bin\Debug\PerfectGraves.pdb
+C:\Users\Mertss\Desktop\Graves\bin\Debug\EloBuddy.dll
+C:\Users\Mertss\Desktop\Graves\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Mertss\Desktop\Graves\bin\Debug\SharpDX.dll
+C:\Users\Mertss\Desktop\Graves\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mertss\Desktop\Graves\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mertss\Desktop\Graves\obj\Debug\PerfectGraves.csprojResolveAssemblyReference.cache
+C:\Users\Mertss\Desktop\Graves\obj\Debug\PerfectGraves.exe
+C:\Users\Mertss\Desktop\Graves\obj\Debug\PerfectGraves.pdb
+C:\Users\Mertss\Desktop\Perfect Graves\bin\Debug\PerfectGraves.exe.config
+C:\Users\Mertss\Desktop\Perfect Graves\obj\Debug\PerfectGraves.exe
+C:\Users\Mertss\Desktop\Perfect Graves\obj\Debug\PerfectGraves.pdb
+C:\Users\Mertss\Desktop\My Addons\Perfect Graves\bin\Debug\PerfectGraves.exe.config
+C:\Users\Mertss\Desktop\My Addons\Perfect Graves\obj\Debug\PerfectGraves.exe
+C:\Users\Mertss\Desktop\My Addons\Perfect Graves\obj\Debug\PerfectGraves.pdb
+C:\Users\Mertss\Desktop\buddy\My Addons\Perfect Graves\bin\Debug\PerfectGraves.exe.config
+C:\Users\Mertss\Desktop\buddy\My Addons\Perfect Graves\obj\Debug\PerfectGraves.exe
+C:\Users\Mertss\Desktop\buddy\My Addons\Perfect Graves\obj\Debug\PerfectGraves.pdb
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Debug\PerfectGraves.exe.config
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\obj\Debug\PerfectGraves.exe
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\obj\Debug\PerfectGraves.pdb
+C:\Users\MF-TR\Desktop\Elobuddy-TRAdana-Translator\Graves\Perfect-Graves-master\bin\Debug\PerfectGraves.exe.config
+C:\Users\MF-TR\Desktop\Elobuddy-TRAdana-Translator\Graves\Perfect-Graves-master\obj\Debug\PerfectGraves.exe
+C:\Users\MF-TR\Desktop\Elobuddy-TRAdana-Translator\Graves\Perfect-Graves-master\obj\Debug\PerfectGraves.pdb

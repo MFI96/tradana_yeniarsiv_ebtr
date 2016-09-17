@@ -1,0 +1,8 @@
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\PerfectGraves.exe.config
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\PerfectGraves.exe
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\EloBuddy.dll
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\EloBuddy.SDK.dll
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\SharpDX.dll
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mertss\Documents\GitHub\Perfect-Graves\obj\MCD\Release\PerfectGraves.exe

@@ -1,0 +1,20 @@
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\Perfect_Udyr.exe.config
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\Perfect_Udyr.exe
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\Perfect_Udyr.pdb
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\EloBuddy.dll
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\SharpDX.dll
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mertss\Desktop\Perfect Udyr\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mertss\Desktop\Perfect Udyr\obj\Debug\Perfect_Udyr.csprojResolveAssemblyReference.cache
+C:\Users\Mertss\Desktop\Perfect Udyr\obj\Debug\Perfect_Udyr.exe
+C:\Users\Mertss\Desktop\Perfect Udyr\obj\Debug\Perfect_Udyr.pdb
+C:\Users\Mertss\Desktop\My Addons\Perfect Udyr\bin\Debug\Perfect_Udyr.exe.config
+C:\Users\Mertss\Desktop\My Addons\Perfect Udyr\obj\Debug\Perfect_Udyr.exe
+C:\Users\Mertss\Desktop\My Addons\Perfect Udyr\obj\Debug\Perfect_Udyr.pdb
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\My Addons\Perfect Udyr\bin\Debug\Perfect_Udyr.exe.config
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\My Addons\Perfect Udyr\obj\Debug\Perfect_Udyr.exe
+C:\Users\Mertss\Desktop\Üzerinde Çalıştığım Addonalr\My Addons\Perfect Udyr\obj\Debug\Perfect_Udyr.pdb
+C:\Users\MF-TR\Desktop\Elobuddy-TRAdana-Translator\Udyr\Perfect-Udyr-master\bin\Debug\Perfect_Udyr.exe.config
+C:\Users\MF-TR\Desktop\Elobuddy-TRAdana-Translator\Udyr\Perfect-Udyr-master\obj\Debug\Perfect_Udyr.exe
+C:\Users\MF-TR\Desktop\Elobuddy-TRAdana-Translator\Udyr\Perfect-Udyr-master\obj\Debug\Perfect_Udyr.pdb

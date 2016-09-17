@@ -1,0 +1,2 @@
+C:\Users\Mertss\AppData\Roaming\EloBuddy\Repositories\1BFBE824\Reverse_Olaf\Reverse_Olaf\bin\Debug\Reverse_Olaf.exe.config
+C:\Users\Mertss\Desktop\Reverse_Olaf\bin\Debug\Reverse_Olaf.exe.config

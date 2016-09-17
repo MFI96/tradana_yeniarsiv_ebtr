@@ -1,0 +1,14 @@
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\RoninElise.exe.config
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\RoninElise.exe
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\RoninElise.pdb
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\EloBuddy.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\EloBuddy.Sandbox.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\EloBuddy.SDK.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\Mario`s Lib.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\Newtonsoft.Json.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\SharpDX.Direct3D9.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\SharpDX.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\bin\Release\SharpDX.XInput.dll
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\obj\Release\RoninElise.csprojResolveAssemblyReference.cache
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\obj\Release\RoninElise.exe
+D:\Tommi\Documents\My\Deve\Ronin Elise\Ronin Elise\obj\Release\RoninElise.pdb

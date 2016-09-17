@@ -1,0 +1,47 @@
+C:\Users\Mertss\Desktop\buddy\Blessed Riven\bin\Debug\Perfect_Jax.exe.config
+C:\Users\Mertss\Desktop\buddy\Blessed Riven\obj\Debug\Perfect_Jax.exe
+C:\Users\Mertss\Desktop\buddy\Blessed Riven\obj\Debug\Perfect_Jax.pdb
+C:\Users\Mertss\Desktop\Blessed Riven\bin\Debug\Perfect_Jax.exe.config
+C:\Users\Mertss\Desktop\Blessed Riven\obj\Debug\Perfect_Jax.exe
+C:\Users\Mertss\Desktop\Blessed Riven\obj\Debug\Perfect_Jax.pdb
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\EloBuddy.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\SharpDX.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\obj\Debug\BlessedRiven.csprojResolveAssemblyReference.cache
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\BlessedRiven.exe.config
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\BlessedRiven.exe
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\bin\Debug\BlessedRiven.pdb
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\obj\Debug\BlessedRiven.exe
+C:\Users\Mertss\Desktop\buddy\My Addons\Blessed Riven\obj\Debug\BlessedRiven.pdb
+C:\Users\Mertss\Desktop\Blessed Riven\bin\Debug\BlessedRiven.exe.config
+C:\Users\Mertss\Desktop\Blessed Riven\obj\Debug\BlessedRiven.exe
+C:\Users\Mertss\Desktop\Blessed Riven\obj\Debug\BlessedRiven.pdb
+C:\Users\Mertss\Documents\GitHub\Blessed-Riven\bin\Debug\BlessedRiven.exe.config
+C:\Users\Mertss\Documents\GitHub\Blessed-Riven\obj\Debug\BlessedRiven.exe
+C:\Users\Mertss\Documents\GitHub\Blessed-Riven\obj\Debug\BlessedRiven.pdb
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\BlessedRiven.exe.config
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\BlessedRiven.exe
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\BlessedRiven.pdb
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\EloBuddy.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\EloBuddy.SDK.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\SharpDX.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\obj\Debug\BlessedRiven.csprojResolveAssemblyReference.cache
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\obj\Debug\BlessedRiven.exe
+C:\Users\bruno\AppData\Roaming\EloBuddy\Repositories\9E3EA01D\obj\Debug\BlessedRiven.pdb
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\bruno\Desktop\9E3EA01D\obj\Debug\BlessedRiven.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\BlessedRiven(FIXED).exe.config
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\BlessedRiven(FIXED).exe
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\BlessedRiven(FIXED).pdb
+C:\Users\bruno\Desktop\9E3EA01D\obj\Debug\BlessedRiven(FIXED).exe
+C:\Users\bruno\Desktop\9E3EA01D\obj\Debug\BlessedRiven(FIXED).pdb
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\EloBuddy.dll
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\EloBuddy.SDK.dll
+C:\Users\bruno\Desktop\9E3EA01D\bin\Debug\SharpDX.dll
